@@ -30,5 +30,5 @@ Junior developer recently graduated from a technical program in systems developm
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/to0k0Ly8tDQAAAAi/busy-cat.gif"  />
+  <img height="500" src="https://media.tenor.com/to0k0Ly8tDQAAAAi/busy-cat.gif"  />
 </div>
