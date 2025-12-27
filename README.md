@@ -7,6 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilh-pereira&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   
 </div>
+
 # 💫 About Me:
 Junior developer recently graduated from a technical program in systems development. I have a solid foundation in software development, programming logic, and coding best practices. I am seeking my first professional opportunity in the technology field, open to working in different areas and learning through hands-on experience.
 
