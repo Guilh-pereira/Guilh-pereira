@@ -1,5 +1,4 @@
----
-[![](https://visitcount.itsvg.in/api?id=Guilh-pereira&icon=4&color=0)](https://visitcount.itsvg.in)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Guilh-pereira.visitor-badge">
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=Guilh-pereira&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -25,10 +24,10 @@ Junior developer recently graduated from a technical program in systems developm
   <a href="mailto:guilhermedroni07@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <br>
+    <img align="left" height="200" src="https://media.tenor.com/to0k0Ly8tDQAAAAi/busy-cat.gif"  />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div align="center">
-  <img height="300" src="https://media.tenor.com/to0k0Ly8tDQAAAAi/busy-cat.gif"  />
-</div>
+
